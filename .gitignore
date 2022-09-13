@@ -349,3 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 SpecFlowCalculator.Specs/.DS_Store
+.DS_Store
+.idea/.idea.SpecFlowCalculator/.idea/.name
+.idea/.idea.SpecFlowCalculator/.idea/indexLayout.xml
+.idea/.idea.SpecFlowCalculator/.idea/vcs.xml
